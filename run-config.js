@@ -5,7 +5,7 @@
  */
 window.RUN_CONFIG = (function () {
   var APP_VERSION = "2.3.2";
-  var HOMESERVER_BASE_URL = "https://sides-wind-performs-plan.trycloudflare.com";
+  var HOMESERVER_BASE_URL = "https://dns-attempting-actors-pot.trycloudflare.com";
   var SERVER_DOMAIN = "tbox";
   var ACCOUNT_DATA_KEY_BACKUP_EVENT = "m.runv2.key_backup.v2";
   var ROOM_EVENT_ENCRYPTED = "m.room.encrypted";
